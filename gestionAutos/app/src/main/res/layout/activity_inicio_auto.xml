@@ -5,7 +5,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical"
-    tools:context=".Inicio_Producto">
+    tools:context="com.crudsqllite.gestionAutos.Inicio_Auto">
 
     <android.widget.Toolbar
         android:id="@+id/toolbar"
@@ -14,7 +14,7 @@
         android:background="?attr/colorPrimary"
         android:minHeight="?attr/actionBarSize"
         app:logo="@drawable/modificar"
-        app:title="GESTIÓN DE PRODUCTOS"
+        app:title="GESTIÓN DE AUTOS"
         app:titleTextColor="#fff" />
     <TextView
         android:id="@+id/textView"

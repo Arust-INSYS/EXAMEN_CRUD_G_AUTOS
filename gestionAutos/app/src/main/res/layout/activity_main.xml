@@ -23,7 +23,7 @@
             android:id="@+id/textView"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="REGISTRO DE PRODUCTOS" />
+            android:text="REGISTRO DE AUTOS" />
 
         <EditText
             android:id="@+id/etCodigo"
@@ -35,20 +35,65 @@
             android:minHeight="48dp" />
 
         <EditText
-            android:id="@+id/etDescripcion"
+            android:id="@+id/etMarca"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:ems="10"
-            android:hint="DESCRIPCION"
+            android:hint="MARCA"
             android:inputType="textPersonName"
             android:minHeight="48dp" />
 
         <EditText
-            android:id="@+id/etPrecio"
+            android:id="@+id/etModelo"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:ems="10"
-            android:hint="PRECIO"
+            android:hint="MODELO"
+            android:inputType="textPersonName"
+            android:minHeight="48dp" />
+
+        <EditText
+            android:id="@+id/etFecha"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:ems="10"
+            android:hint="AÑO"
+            android:inputType="textPersonName"
+            android:minHeight="48dp" />
+
+        <EditText
+            android:id="@+id/etChasis"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:ems="10"
+            android:hint="CHASIS"
+            android:inputType="textPersonName"
+            android:minHeight="48dp" />
+
+        <EditText
+            android:id="@+id/etTransmision"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:ems="10"
+            android:hint="TRANSMISIÓN"
+            android:inputType="textPersonName"
+            android:minHeight="48dp" />
+
+        <EditText
+            android:id="@+id/etAccesorios"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:ems="10"
+            android:hint="ACCESORIOS"
+            android:inputType="textPersonName"
+            android:minHeight="48dp" />
+
+        <EditText
+            android:id="@+id/etValor"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:ems="10"
+            android:hint="VALOR"
             android:inputType="textPersonName"
             android:minHeight="48dp" />
 

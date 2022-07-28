@@ -3,6 +3,9 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/Arust/AndroidStudioProjects/EXAMEN_CRUD_G_AUTOS/gestionAutos/app/src/main/res/layout/activity_inicio_auto.xml" value="0.1" />
+        <entry key="..\:/Users/Arust/AndroidStudioProjects/EXAMEN_CRUD_G_AUTOS/gestionAutos/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/Users/Arust/AndroidStudioProjects/EXAMEN_CRUD_G_AUTOS/gestionAutos/app/src/main/res/layout/listado_autos.xml" value="0.16485507246376813" />
         <entry key="..\:/Users/Arust/AndroidStudioProjects/pmCaso71/app/src/main/res/layout/activity_inicio_producto.xml" value="0.25" />
         <entry key="..\:/Users/Arust/AndroidStudioProjects/pmCaso71/app/src/main/res/layout/activity_main.xml" value="0.33" />
         <entry key="..\:/Users/Arust/AndroidStudioProjects/pmCaso71/app/src/main/res/layout/activity_registro.xml" value="0.16485507246376813" />

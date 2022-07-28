@@ -5,7 +5,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical"
-    tools:context=".listado_productos">
+    tools:context="com.crudsqllite.gestionAutos.listado_autos">
 
 
     <TextView
@@ -13,7 +13,7 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:gravity="center"
-        android:text="LISTADO DE PRODUCTOS"
+        android:text="LISTADO DE AUTOS"
         android:textSize="20sp" />
 
         <ListView
